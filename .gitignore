@@ -2,3 +2,4 @@ venv
 data
 __pycache__
 chroma_db_temp_no_sync
+results
